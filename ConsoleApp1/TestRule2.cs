@@ -12,6 +12,7 @@ namespace ConsoleApp1
             // 2020-09-30 12:19 add in VS and send to git
             // 2020-09-30 12:28 add comment in VS and send to github
             // 2020-09-30 12:42 add comment in VS and send to github
+            // 2020-09-30 12:57 add comment in VS and send to github
             double doubleVal = Double.Parse(s);    // Violation
             return doubleVal;             
         }
@@ -23,6 +24,7 @@ namespace ConsoleApp1
             // 2020-09-30 12:05
             // 2020-09-30 12:19 add in VS and send to git
             // 2020-09-30 12:42 add comment in VS and send to github
+            // 2020-09-30 12:57 add comment in VS and send to github
         }
         public double Foo3(string s)
         {
@@ -32,6 +34,7 @@ namespace ConsoleApp1
             // 2020-09-30 12:19 add in VS and send to git
             // 2020-09-30 12:28 add comment in VS and send to github
             // 2020-09-30 12:42 add comment in VS and send to github
+            // 2020-09-30 12:57 add comment in VS and send to github
             double doubleVal3 = Double.Parse(s);    // Violation
             return doubleVal3;
         }
